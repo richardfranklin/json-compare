@@ -1,5 +1,0 @@
-{
-  "{{ count }} Day_one": "{{ count }} Day",
-  "{{ count }} Day_other": "{{ count }} Day",
-  "Current Streak": "Current Streak"
-}
